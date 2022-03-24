@@ -1,5 +1,5 @@
 {
-    "name": "mihanentalpo/fast-fuzzy-search",
+    "name": "joshwbrick/fast-fuzzy-search",
     "type": "library",
     "description": "Fast fuzzy search in an array of strings for the most similiar ones",
     "keywords": ["search", "compare", "fuzzy"],
